@@ -1,7 +1,7 @@
 {
-    "name": "vmvltrshso",
-    "description": "vmvltrshso",
-    "keywords": ["vmvltrshso"],
+    "name": "wwwui",
+    "description": "wwwui",
+    "keywords": ["wwwui"],
     "env": {
          "PROTOCOL": {
             "description": "path路径说明:（斜杠/）+（自定义UUID）+（减号-）+（对应协议开头两小写字母：vl或vm或tr或sh或so）",
