@@ -141,3 +141,4 @@ https://github.com/mixool/xrayku  （已删库）
 
 https://github.com/Cptmacmillan2022007/IX-X2VW
 
+1、在浏览器复制链接   https://dashboard.heroku.com/new?template= 加上上传至Github的项目地址链接，回车进入Heroku参数设置界面
